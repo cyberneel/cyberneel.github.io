@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quizzes on CyberNeel</title>
-    <link>https://cyberneel.github.io/quizzes/</link>
+    <link>https://cyberneel.design/quizzes/</link>
     <description>Recent content in Quizzes on CyberNeel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2023 [CyberNeel](https://cyberneel.github.io/)</copyright><atom:link href="https://cyberneel.github.io/quizzes/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2023 [CyberNeel](https://cyberneel.github.io/)</copyright><atom:link href="https://cyberneel.design/quizzes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
