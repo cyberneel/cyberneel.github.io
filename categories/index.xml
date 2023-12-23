@@ -6,6 +6,70 @@
     <description>Recent content in Categories on CyberNeel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2023 [CyberNeel](https://cyberneel.github.io/)</copyright><atom:link href="https://cyberneel.design/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2023 [CyberNeel](https://cyberneel.github.io/)</copyright>
+    <lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberneel.design/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blender</title>
+      <link>https://cyberneel.design/categories/blender/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberneel.design/categories/blender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Art</title>
+      <link>https://cyberneel.design/categories/digital-art/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberneel.design/categories/digital-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photoshop</title>
+      <link>https://cyberneel.design/categories/photoshop/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberneel.design/categories/photoshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Render</title>
+      <link>https://cyberneel.design/categories/render/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberneel.design/categories/render/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toon</title>
+      <link>https://cyberneel.design/categories/toon/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberneel.design/categories/toon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZBrush</title>
+      <link>https://cyberneel.design/categories/zbrush/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberneel.design/categories/zbrush/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VASE</title>
+      <link>https://cyberneel.design/categories/vase/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberneel.design/categories/vase/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
