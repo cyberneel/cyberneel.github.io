@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on CyberNeel</title>
-    <link>https://cyberneel.design/categories/blog/</link>
-    <description>Recent content in Blog on CyberNeel</description>
+    <title>Programming on CyberNeel</title>
+    <link>https://cyberneel.design/categories/programming/</link>
+    <description>Recent content in Programming on CyberNeel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2023 [CyberNeel](https://cyberneel.github.io/)</copyright>
-    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberneel.design/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberneel.design/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conway&#39;s Game of Life</title>
       <link>https://cyberneel.design/post/game-of-life/</link>

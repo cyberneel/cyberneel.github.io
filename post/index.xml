@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2023 [CyberNeel](https://cyberneel.github.io/)</copyright>
-    <lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberneel.design/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberneel.design/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conway&#39;s Game of Life</title>
+      <link>https://cyberneel.design/post/game-of-life/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberneel.design/post/game-of-life/</guid>
+      <description>Conway&amp;rsquo;s Game of Life is a zero-player game that simulates the evolution of cells on a grid. Each cell can be either alive or dead, and its state depends on the number of live neighbors it has.</description>
+    </item>
+    
     <item>
       <title>White Bear Toon</title>
       <link>https://cyberneel.design/post/white-bear-toon/</link>

@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cyberneel.design/categories/blog/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cyberneel.design/post/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cyberneel.design/categories/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cyberneel.design/post/game-of-life/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cyberneel.design/categories/javascript/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cyberneel.design/categories/programming/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cyberneel.design/</loc>
-    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cyberneel.design/about/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
@@ -12,12 +30,6 @@
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cyberneel.design/categories/blender/</loc>
-    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cyberneel.design/post/</loc>
-    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cyberneel.design/categories/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cyberneel.design/categories/digital-art/</loc>
